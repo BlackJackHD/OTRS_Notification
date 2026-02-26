@@ -2,7 +2,7 @@
 token = '1234567890:ABCDE-xxxxxxxxxx-zzzzzzzzzzzzzzzzzz' 
 recipient = [1234567890]
 #telegram(ErMac)
-ermac_token = '1234567890:AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQR' 
+ermac_token = '1234567890:ABCDE-xxxxxxxxxx-zzzzzzzzzzzzzzzzzz' 
 ermac_recipient = [1234567890,0123456777]
 #postgres
 dbname = 'otrs_db'
